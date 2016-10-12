@@ -6,12 +6,12 @@ description: Development // Production // Design // Marketing
 email: adriannekylie@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
-
-menu:
-- {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
-- {name: Contact, url: '#contact'}
+#
+# menu:
+# - {name: About Me, url: '#about-me'}
+# - {name: Work, url: '#work'}
+# - {name: Clients, url: '#clients'}
+# - {name: Contact, url: '#contact'}
 
 #-------------------------------
 # SEO Section
@@ -39,10 +39,11 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **We are making the web more beautiful** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
+  **We create a virtual experience** for human people to get a
+  better ***feel for*** what you are all about. We give your clients a easy-to
+  comprehensive preview in a short, well-composed, visualing stunning video
+  that plays right as you go to your site. No lengthy testimonials, instructual manuels,
+  or bs. Just the vibes of what makes you unique, to get people wanting more,playing right on your homepage.
 
 
 # skills:
