@@ -7,13 +7,15 @@ animation: "bounceOut"
 logo: "logo.svg"
 hero: "waterbackground.jpg"
 avatar: "Adrianne1.jpg"
+avatar: "Sonja1.jpg"
+
 
 
 # Colors
 
 accent: "#c99065"
 
-textColor: "#fdfdfd"
+textColor: "#1c1c1c"
 headlineColor: "#333"
 bgcolor: "#e5eaee"
 documentBackgroundColor: "#fff"
