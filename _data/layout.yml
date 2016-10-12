@@ -7,7 +7,9 @@ animation: "bounceOut"
 logo: "logo.svg"
 hero: "waterbackground.jpg"
 avatar: "Adrianne1.jpg"
-avatar: "Sonja1.jpg"
+{ avatar: 'Sonja1.jpg',
+  name: 'Scott Summers'}
+
 
 
 
